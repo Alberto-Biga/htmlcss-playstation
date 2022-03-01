@@ -1,5 +1,18 @@
+/* da eliminare */
+body{
+    background-color: aquamarine;
+}
+
+/* ANCHOR GENERALE */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;   
+}
+/* ANCHOR NAVBAR */
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+}
+.ps_padding{
+    border-radius: 30px;    
 }
