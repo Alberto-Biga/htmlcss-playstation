@@ -33,4 +33,15 @@ body{
     background-color: red;   
 }
 
- 
+.preview{
+    width: calc( (100% / 6) - 20px);
+    margin: 10px;
+    
+}
+.preview > img{
+    width: 100%;
+} 
+.aa{
+    width: 100vw;
+    
+}
