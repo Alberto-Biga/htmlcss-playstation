@@ -65,3 +65,15 @@
 .ps_bg_blue{
     background-color: blue;
 }
+    /* PS Plus */
+.ps_bgc_grey{
+    background-color: rgba(190,188,187,255);
+    max-width: 100%;
+}  
+.ps_bg_grey, .plus{
+    color: blue;
+    background-color: rgba(217,218,220,255);
+}
+.ps_padding_5{
+    padding-left: 5%;
+}  
