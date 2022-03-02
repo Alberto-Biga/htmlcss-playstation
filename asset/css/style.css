@@ -52,3 +52,12 @@
     color: white;
     margin-top: 150PX;
 }
+    /* NUOVE USCITE */
+.ps_new_bgc{
+    background-color: rgba(31,31,31,255);
+    color: white;
+}
+.ps_w_p{
+    max-width: 100%;
+    padding: 5%;
+}
