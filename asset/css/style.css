@@ -76,4 +76,14 @@
 }
 .ps_padding_5{
     padding-left: 5%;
-}  
+}
+    /* PS NOW */
+.ps_bgc_now{
+    background-color: rgba(22,28,59,255);
+    max-width: 100%;
+    color: white;
+}    
+.ps_btn_now{
+    color: black;
+    background-color: white;
+}
