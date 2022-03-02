@@ -25,23 +25,18 @@ body{
     color: white;
     width: 100vw;
     height: 80vh;
-    background-position: center;
+    background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .ps_bg_red{
     background-color: red;   
 }
+/* ANCHOR SECTION TWO */
+    /* IMG PREVIEW */
+.ps_90vw_center{
+    width: 90vw;
+    margin: 0 auto;
+}
+ 
 
-.preview{
-    width: calc( (100% / 6) - 20px);
-    margin: 10px;
-    
-}
-.preview > img{
-    width: 100%;
-} 
-.aa{
-    width: 100vw;
-    
-}
